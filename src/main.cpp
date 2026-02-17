@@ -32,7 +32,5 @@ void loop() {
         Serial.println("No Significant Pressure.");
     }
 
-    // TODO 9:
-    // Add delay (500ms or 1 second)
     delay(500);
 }
